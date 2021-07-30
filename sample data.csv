@@ -1,0 +1,785 @@
+Car_Model,Profession,Work_Experience_yrs,House,PinCode
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+innova,auto ancillary,7,unknown,67
+ikon,isp,8,unknown,12
+wagon r,iron,6,unknown,23
+omni,dot com,7,unknown,23
+ikon,isp,8,unknown,12
+santro,software,3,own-house,68
+ikon,internet,8,unknown,12
+omni,hardware,7,unknown,23
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+alto,entertainment,7,own-house,68
+santro,software,3,own-house,68
+civic,internet,7,own-house,78
+ikon,it,8,unknown,12
+getz,it,9,unknown,71
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+getz,software,9,unknown,71
+aveo,financial services,17,own-house,77
+ikon,dot com,8,unknown,12
+bolero,it,5,unknown,22
+santro,entertainment,11,unknown,78
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,modelling,10,own-house,80
+getz,it,9,unknown,71
+ikon,software services,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+santro,accounting,3,unknown,22
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+santro,it,9,own-house,72
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+ikon,dot com,8,unknown,12
+wagon r,construction,6,unknown,23
+santro,software,9,own-house,72
+ikon,isp,8,unknown,12
+wagon r,steel,6,unknown,23
+santro,accounting,3,unknown,22
+wagon r,automobiles,6,unknown,23
+aveo,financial services,17,own-house,77
+fiesta,entertainment,11,own-house,78
+wagon r,iron,6,unknown,23
+ikon,dot com,8,unknown,12
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+omni,dot com,7,unknown,23
+bolero,software,5,unknown,22
+ikon,software services,8,unknown,12
+getz,software,9,unknown,71
+ikon,software services,8,unknown,12
+logan,projects,8,own-house,78
+ikon,software,8,unknown,12
+getz,it,9,unknown,71
+ikon,internet,8,unknown,12
+wagon r,metal,6,unknown,23
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+fiesta,media,11,own-house,78
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+innova,automobiles,7,unknown,67
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+santro,consulting,3,unknown,22
+innova,auto ancillary,7,unknown,67
+ikon,software services,8,unknown,12
+civic,isp,7,own-house,78
+innova,auto ancillary,7,unknown,67
+ikon,it,8,unknown,12
+fiesta,garments,10,own-house,80
+innova,auto component,7,unknown,67
+ikon,software services,8,unknown,12
+santro,consulting,3,unknown,22
+ikon,dot com,8,unknown,12
+innova,auto ancillary,7,unknown,67
+wagon r,metal,6,unknown,23
+alto,entertainment,7,own-house,68
+indigo,fmcg,6,own-house,77
+getz,it,9,unknown,71
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+innova,fmcg,6,own-house,77
+getz,banking,5,unknown,68
+logan,projects,8,own-house,78
+santro,tax,3,unknown,22
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+santro,tax,3,unknown,22
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+santro,media,11,unknown,78
+ikon,internet,8,unknown,12
+civic,dot com,7,own-house,78
+wagon r,cement,6,unknown,23
+honda civic,?,6,unknown,78
+ikon,software,8,unknown,12
+innova,auto component,7,unknown,67
+omni,hardware,7,unknown,23
+santro,software,3,own-house,68
+innova,auto component,7,unknown,67
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+wagon r,auto component,6,unknown,23
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+wagon r,auto component,6,unknown,23
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,garments,10,own-house,80
+ikon,isp,8,unknown,12
+getz,it,9,unknown,71
+santro,accounting,3,unknown,22
+indica,restaurant,9,unknown,89
+ikon,software services,8,unknown,12
+getz,software,9,unknown,71
+ikon,isp,8,unknown,12
+santro,entertainment,11,unknown,78
+santro,media,11,unknown,78
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+santro,entertainment,11,own-house,78
+getz,software,9,unknown,71
+alto,media,7,own-house,68
+ikon,software services,8,unknown,12
+innova,automobiles,7,unknown,67
+ikon,internet,8,unknown,12
+omni,internet,7,unknown,23
+santro,media,11,unknown,78
+ikon,dot com,8,unknown,12
+omni,fishing,3,unknown,74
+alto,entertainment,7,own-house,68
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+fiesta,entertainment,11,own-house,78
+tavera,shipping,15,unknown,78
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,dot com,8,unknown,12
+innova,automobiles,7,unknown,67
+ikon,it,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+innova,auto component,7,unknown,67
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+getz,automobiles,4,own-house,22
+ikon,software,8,unknown,12
+getz,it,9,unknown,71
+omni,hardware,7,unknown,23
+santro,it,9,own-house,72
+ikon,dot com,8,unknown,12
+ikon,software services,8,unknown,12
+alto,projects,8,unknown,40
+civic,dot com,7,own-house,78
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,internet,8,unknown,12
+santro,software,9,own-house,72
+ikon,software,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+fiesta,entertainment,11,own-house,78
+ikon,dot com,8,unknown,12
+ikon,software services,8,unknown,12
+logan,projects,8,own-house,78
+santro,accounting,3,unknown,22
+getz,it,9,unknown,71
+ikon,software,8,unknown,12
+santro,entertainment,11,unknown,78
+scorpio,engineering,11,unknown,89
+indigo,insurance,15,unknown,47
+ikon,isp,8,unknown,12
+civic,dot com,7,own-house,78
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+alto,engineering,8,unknown,40
+ikon,internet,8,unknown,12
+ikon,it,8,unknown,12
+tavera,mining,15,unknown,78
+tavera,marine,15,unknown,78
+innova,automobiles,7,unknown,67
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+fiesta,gems & jewellery,10,own-house,80
+ikon,dot com,8,unknown,12
+fiesta,entertainment,11,own-house,78
+scorpio,engineering,11,unknown,89
+ikon,software,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+innova,retailing,14,own-house,77
+santro,it,3,own-house,68
+ikon,software services,8,unknown,12
+omni,it,7,unknown,23
+ikon,software,8,unknown,12
+getz,software,9,unknown,71
+aveo,stockbroking,17,own-house,77
+getz,software,9,unknown,71
+wagon r,metal,6,unknown,23
+ikon,dot com,8,unknown,12
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+tavera,shipping,15,unknown,78
+getz,software,9,unknown,71
+alto,entertainment,3,unknown,36
+tavera,military,15,unknown,78
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+getz,software,9,unknown,71
+omni,telecom,7,unknown,23
+ikon,dot com,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,isp,8,unknown,12
+getz,it,9,unknown,71
+ikon,it,8,unknown,12
+innova,auto component,7,unknown,67
+fiesta,media,11,own-house,78
+getz,it,9,unknown,71
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+wagon r,construction,6,unknown,23
+ikon,it,8,unknown,12
+getz,software,9,unknown,71
+ikon,software services,8,unknown,12
+wagon r,cement,6,unknown,23
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+santro,media,11,unknown,78
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,dot com,8,unknown,12
+civic,internet,7,own-house,78
+getz,software,9,unknown,71
+spark,manufacturing,6,unknown,78
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+indica,tourism,9,unknown,89
+innova,auto ancillary,7,unknown,67
+alto,projects,8,unknown,40
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+innova,consumer durables,6,own-house,77
+scorpio,projects,11,unknown,89
+wagon r,iron,6,unknown,23
+santro,entertainment,11,own-house,78
+indigo,consumer durables,6,own-house,77
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+wagon r,manufacturing,6,unknown,23
+santro,it,3,own-house,68
+getz,software,9,unknown,71
+alto,entertainment,7,own-house,68
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+innova,automobiles,7,unknown,67
+getz,it,9,unknown,71
+skoda,others,13,unknown,67
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+skoda,others,13,unknown,67
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+indica,catering,9,unknown,89
+getz,software,9,unknown,71
+omni,networking,7,unknown,23
+ikon,software,8,unknown,12
+aveo,stockbroking,17,own-house,77
+civic,isp,7,own-house,78
+ikon,dot com,8,unknown,12
+ikon,software,8,unknown,12
+omni,isp,7,unknown,23
+innova,auto ancillary,7,unknown,67
+getz,it,9,unknown,71
+bolero,it,5,unknown,22
+civic,dot com,7,own-house,78
+santro,it,3,own-house,68
+innova,retailing,14,own-house,77
+ikon,it,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,it,8,unknown,12
+ikon,dot com,8,unknown,12
+alto,entertainment,7,own-house,68
+ikon,software,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,it,8,unknown,12
+fiesta,apparel,10,own-house,80
+getz,it,9,unknown,71
+civic,internet,7,own-house,78
+alto,projects,8,unknown,40
+wagon r,manufacturing,6,unknown,23
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+santro,software,9,own-house,72
+ikon,dot com,8,unknown,12
+santro,it,9,own-house,72
+ikon,internet,8,unknown,12
+city,telecom,10,own-house,77
+ikon,software,8,unknown,12
+getz,it,9,unknown,71
+innova,auto component,7,unknown,67
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+alto,engineering,8,unknown,40
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+innova,retailing,14,own-house,77
+fiesta,apparel,10,own-house,80
+ikon,it,8,unknown,12
+innova,auto ancillary,7,unknown,67
+getz,software,9,unknown,71
+santro,it,3,own-house,68
+tavera,aviation,15,unknown,78
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+scorpio,projects,11,unknown,89
+wagon r,steel,6,unknown,23
+santro,it,3,own-house,68
+santro,entertainment,11,unknown,78
+ikon,isp,8,unknown,12
+wagon r,manufacturing,6,unknown,23
+innova,auto component,7,unknown,67
+santro,software,3,own-house,68
+ikon,isp,8,unknown,12
+alto,media,7,own-house,68
+ikon,it,8,unknown,12
+tavera,mining,15,unknown,78
+ikon,internet,8,unknown,12
+alto,media,7,own-house,68
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+innova,automobiles,7,unknown,67
+ikon,isp,8,unknown,12
+logan,projects,8,own-house,78
+aveo,financial services,17,own-house,77
+wagon r,auto ancillary,6,unknown,23
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+santro,entertainment,11,unknown,78
+getz,software,9,unknown,71
+tavera,aviation,15,unknown,78
+santro,media,11,unknown,78
+alto,hotel,3,unknown,36
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+santro,telecom,5,unknown,23
+ikon,dot com,8,unknown,12
+ikon,software,8,unknown,12
+indica,hotel,9,unknown,89
+civic,isp,7,own-house,78
+fiesta,media,11,own-house,78
+getz,it,9,unknown,71
+wagon r,auto component,6,unknown,23
+santro,tax,3,unknown,22
+ikon,it,8,unknown,12
+getz,software,9,unknown,71
+ikon,internet,8,unknown,12
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+santro,consulting,3,unknown,22
+ikon,internet,8,unknown,12
+logan,projects,8,own-house,78
+civic,isp,7,own-house,78
+santro,tax,3,unknown,22
+santro,consulting,3,unknown,22
+wagon r,auto ancillary,6,unknown,23
+city,telecom,10,own-house,77
+alto,media,3,unknown,36
+wagon r,auto ancillary,6,unknown,23
+alto,airlines,3,unknown,36
+ikon,dot com,8,unknown,12
+santro,it,3,own-house,68
+alto,manufacturing,9,unknown,57
+ikon,isp,8,unknown,12
+santro,media,11,unknown,78
+ikon,isp,8,unknown,12
+alto,hospitality,3,unknown,36
+getz,it,9,unknown,71
+ikon,software services,8,unknown,12
+getz,software,9,unknown,71
+omni,networking,7,unknown,23
+ikon,dot com,8,unknown,12
+fiesta,entertainment,11,own-house,78
+santro,accounting,3,unknown,22
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+getz,software,9,unknown,71
+santro,software,3,own-house,68
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+innova,retailing,14,own-house,77
+civic,internet,7,own-house,78
+ikon,software,8,unknown,12
+alto,engineering,8,unknown,40
+innova,retailing,14,own-house,77
+honda civic,?,6,unknown,78
+omni,isp,7,unknown,23
+ikon,software,8,unknown,12
+getz,it,9,unknown,71
+aveo,stockbroking,17,own-house,77
+innova,automobiles,7,unknown,67
+santro,it,3,own-house,68
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+omni,it,7,unknown,23
+ikon,dot com,8,unknown,12
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+alto,travel,3,unknown,36
+logan,engineering,8,own-house,78
+innova,auto ancillary,7,unknown,67
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+fiesta,apparel,10,own-house,80
+fiesta,media,11,own-house,78
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+alto,industrial,9,unknown,57
+alto,entertainment,7,own-house,68
+ikon,internet,8,unknown,12
+innova,auto component,7,unknown,67
+ikon,isp,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+tavera,military,15,unknown,78
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,entertainment,11,own-house,78
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+santro,software,3,own-house,68
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+alto,engineering,8,unknown,40
+civic,isp,7,own-house,78
+fiesta,media,11,own-house,78
+ikon,software services,8,unknown,12
+getz,it,9,unknown,71
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+fiesta,modelling,10,own-house,80
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+getz,auto component,4,own-house,22
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+ikon,internet,8,unknown,12
+wagon r,automobiles,6,unknown,23
+santro,accounting,3,unknown,22
+ikon,it,8,unknown,12
+alto,engineering,8,unknown,40
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+getz,it,9,unknown,71
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,gems & jewellery,10,own-house,80
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+fiesta,entertainment,11,own-house,78
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+getz,software,9,unknown,71
+innova,auto ancillary,7,unknown,67
+ikon,internet,8,unknown,12
+santro,entertainment,11,own-house,78
+santro,media,11,unknown,78
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+alto,engineering,8,unknown,40
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+getz,it,9,unknown,71
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+tavera,shipping,15,unknown,78
+alto,media,7,own-house,68
+alto,projects,8,unknown,40
+ikon,dot com,8,unknown,12
+fiesta,fashion,10,own-house,80
+omni,dot com,7,unknown,23
+ikon,internet,8,unknown,12
+innova,auto ancillary,7,unknown,67
+ikon,software services,8,unknown,12
+indigo,insurance,15,unknown,47
+ikon,software services,8,unknown,12
+ikon,it,8,unknown,12
+innova,auto component,7,unknown,67
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+wagon r,automobiles,6,unknown,23
+wagon r,construction,6,unknown,23
+tavera,marine,15,unknown,78
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+bolero,software,5,unknown,22
+omni,telecom,7,unknown,23
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+wagon r,cement,6,unknown,23
+ikon,dot com,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+getz,auto ancillary,4,own-house,22
+innova,consumer durables,6,own-house,77
+innova,automobiles,7,unknown,67
+santro,media,11,unknown,78
+civic,isp,7,own-house,78
+santro,consulting,3,unknown,22
+ikon,internet,8,unknown,12
+ikon,isp,8,unknown,12
+santro,software,9,own-house,72
+alto,media,7,own-house,68
+getz,it,9,unknown,71
+fiesta,entertainment,11,own-house,78
+omni,forestry,3,unknown,74
+santro,tax,3,unknown,22
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,media,11,own-house,78
+civic,dot com,7,own-house,78
+ikon,software services,8,unknown,12
+santro,tax,3,unknown,22
+ikon,software services,8,unknown,12
+santro,it,9,own-house,72
+santro,consulting,3,unknown,22
+aveo,financial services,17,own-house,77
+getz,it,9,unknown,71
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+skoda,others,13,unknown,67
+santro,it,3,own-house,68
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,dot com,8,unknown,12
+fiesta,gems & jewellery,10,own-house,80
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+getz,it,9,unknown,71
+getz,it,9,unknown,71
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+alto,projects,8,unknown,40
+ikon,it,8,unknown,12
+alto,entertainment,7,own-house,68
+innova,auto ancillary,7,unknown,67
+ikon,isp,8,unknown,12
+wagon r,industrial,6,unknown,23
+alto,engineering,8,unknown,40
+santro,software,3,own-house,68
+ikon,dot com,8,unknown,12
+civic,internet,7,own-house,78
+ikon,internet,8,unknown,12
+indica,food services,9,unknown,89
+innova,auto component,7,unknown,67
+getz,software,9,unknown,71
+ikon,isp,8,unknown,12
+city,telecom,10,own-house,77
+ikon,isp,8,unknown,12
+logan,engineering,8,own-house,78
+wagon r,industrial,6,unknown,23
+ikon,it,8,unknown,12
+fiesta,media,11,own-house,78
+ikon,dot com,8,unknown,12
+city,telecom,10,own-house,77
+ikon,software,8,unknown,12
+spark,industrial,6,unknown,78
+bolero,software,5,unknown,22
+ikon,it,8,unknown,12
+ikon,it,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+getz,it,9,unknown,71
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+logan,engineering,8,own-house,78
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,dot com,8,unknown,12
+getz,software,9,unknown,71
+city,telecom,10,own-house,77
+alto,media,7,own-house,68
+ikon,it,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software,8,unknown,12
+innova,auto component,7,unknown,67
+ikon,internet,8,unknown,12
+fiesta,modelling,10,own-house,80
+ikon,software services,8,unknown,12
+logan,engineering,8,own-house,78
+omni,internet,7,unknown,23
+innova,fmcg,6,own-house,77
+fiesta,fashion,10,own-house,80
+ikon,isp,8,unknown,12
+innova,retailing,14,own-house,77
+ikon,internet,8,unknown,12
+santro,tax,3,unknown,22
+alto,media,7,own-house,68
+ikon,dot com,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,isp,8,unknown,12
+bolero,it,5,unknown,22
+innova,automobiles,7,unknown,67
+ikon,software,8,unknown,12
+ikon,isp,8,unknown,12
+santro,software,3,own-house,68
+ikon,software,8,unknown,12
+ikon,dot com,8,unknown,12
+wagon r,industrial,6,unknown,23
+logan,engineering,8,own-house,78
+innova,automobiles,7,unknown,67
+civic,internet,7,own-house,78
+fiesta,media,11,own-house,78
+ikon,internet,8,unknown,12
+alto,entertainment,7,own-house,68
+getz,software,9,unknown,71
+tavera,aviation,15,unknown,78
+santro,it,9,own-house,72
+ikon,software services,8,unknown,12
+indica,travel,9,unknown,89
+getz,it,9,unknown,71
+ikon,internet,8,unknown,12
+ikon,it,8,unknown,12
+fiesta,garments,10,own-house,80
+ikon,isp,8,unknown,12
+ikon,isp,8,unknown,12
+getz,it,9,unknown,71
+wagon r,steel,6,unknown,23
+getz,software,9,unknown,71
+getz,it,9,unknown,71
+city,telecom,10,own-house,77
+getz,it,9,unknown,71
+santro,consulting,3,unknown,22
+ikon,dot com,8,unknown,12
+santro,software,9,own-house,72
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+alto,projects,8,unknown,40
+tavera,military,15,unknown,78
+ikon,it,8,unknown,12
+getz,it,9,unknown,71
+omni,agriculture,3,unknown,74
+ikon,isp,8,unknown,12
+omni,internet,7,unknown,23
+ikon,software services,8,unknown,12
+omni,networking,7,unknown,23
+ikon,dot com,8,unknown,12
+alto,tourism,3,unknown,36
+omni,telecom,7,unknown,23
+indica,airlines,9,unknown,89
+ikon,software services,8,unknown,12
+santro,it,9,own-house,72
+ikon,software,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,internet,8,unknown,12
+omni,it,7,unknown,23
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+civic,dot com,7,own-house,78
+getz,software,9,unknown,71
+indigo,consumer durables,6,own-house,77
+alto,media,7,own-house,68
+ikon,isp,8,unknown,12
+ikon,software,8,unknown,12
+ikon,it,8,unknown,12
+getz,it,9,unknown,71
+ikon,it,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,internet,8,unknown,12
+ikon,software services,8,unknown,12
+ikon,software,8,unknown,12
+ikon,software,8,unknown,12
+omni,isp,7,unknown,23
+indica,retailing,10,own-house,89
+indica,hospitality,9,unknown,89
+ikon,isp,8,unknown,12
+ikon,dot com,8,unknown,12
+tavera,marine,15,unknown,78
+aveo,stockbroking,17,own-house,77
+innova,automobiles,7,unknown,67
+getz,software,9,unknown,71
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+ikon,internet,8,unknown,12
+getz,software,9,unknown,71
+ikon,isp,8,unknown,12
+ikon,it,8,unknown,12
+santro,telecom,5,unknown,23
+city,telecom,10,own-house,77
+indigo,fmcg,6,own-house,77
+ikon,dot com,8,unknown,12
+ikon,software,8,unknown,12
+fiesta,fashion,10,own-house,80
+tavera,mining,15,unknown,78
+ikon,dot com,8,unknown,12
+ikon,software services,8,unknown,12
+alto,projects,8,unknown,40
+ikon,dot com,8,unknown,12
+ikon,isp,8,unknown,12
+santro,software,9,own-house,72
+santro,accounting,3,unknown,22
